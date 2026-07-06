@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "badge": "Best Seller",
+    "title": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "duration": "Mo",
+    "icon": "✍️",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ]
+  },
+  {
+    "id": 2,
+    "badge": "Popular",
+    "title": "AI Image Studio",
+    "description": "Create stunning AI-generated images, logos, and artwork with just a few prompts.",
+    "price": 39,
+    "duration": "Mo",
+    "icon": "🎨",
+    "features": [
+      "Unlimited image generation",
+      "HD image exports",
+      "Background remover"
+    ]
+  },
+  {
+    "id": 3,
+    "badge": "New",
+    "title": "AI Video Creator",
+    "description": "Turn your ideas into professional-quality videos using powerful AI tools.",
+    "price": 49,
+    "duration": "One-Time",
+    "icon": "🎬",
+    "features": [
+      "AI video generation",
+      "Voice-over support",
+      "1080p exports"
+    ]
+  },
+  {
+    "id": 4,
+    "badge": "Premium",
+    "title": "AI Code Assistant",
+    "description": "Boost your development workflow with AI-powered code generation and debugging.",
+    "price": 59,
+    "duration": "Mo",
+    "icon": "💻",
+    "features": [
+      "Code generation",
+      "Bug fixing",
+      "Multi-language support"
+    ]
+  },
+  {
+    "id": 5,
+    "badge": "Enterprise",
+    "title": "AI Business Suite",
+    "description": "All-in-one AI platform for teams with automation, analytics, and collaboration tools.",
+    "price": 99,
+    "duration": "One-Time",
+    "icon": "🚀",
+    "features": [
+      "Team collaboration",
+      "Workflow automation",
+      "Advanced analytics"
+    ]
+  },
+  {
+    "id": 6,
+    "badge": "Enterprise",
+    "title": "AI Business Suite",
+    "description": "All-in-one AI platform for teams with automation, analytics, and collaboration tools.",
+    "price": 99,
+    "duration": "Mo",
+    "icon": "🚀",
+    "features": [
+      "Team collaboration",
+      "Workflow automation",
+      "Advanced analytics"
+    ]
+  }
+]

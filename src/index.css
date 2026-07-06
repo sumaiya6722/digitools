@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@import "@heroui/styles"; 
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@theme {
+  --font-sans: 'Manrope', sans-serif;
+}
